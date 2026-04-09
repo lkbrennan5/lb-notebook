@@ -1,0 +1,80 @@
+---
+title: "TEMPLATE - Copy this for new entries"
+author: "Lucy K Brennan"
+date: "2026-04-09"
+categories: [Chilodonella Culture Maintenance, "Living" Protocol, Observation]
+description: "Brief description of this notebook entry"
+draft: true
+---
+
+# Overview
+
+Today, I moved my Chilodonella into a new well in my six-welled-plate. I then began to draft a procedure which I have been using to maintain my Chilodonella culture for the past few months. It is significantly less complex than the reading I have done into maintaining a Heliophrya 
+
+# Goals
+
+- Goal 1
+- Goal 2
+- Goal 3
+
+# Methods
+
+## Setup
+
+Describe your setup or preparation.
+
+## Procedures
+
+Describe the procedures followed.
+
+# Results
+
+## Data
+
+Present your data here. You can include:
+
+- Tables
+- Figures
+- Code outputs
+
+### Example Code Block
+
+```{r}
+# R code example
+# plot(x, y)
+```
+
+```{python}
+# Python code example
+# import pandas as pd
+```
+
+## Observations
+
+Record your observations.
+
+# Analysis
+
+Describe any analysis performed.
+
+# Discussion
+
+Discuss findings, issues encountered, and next steps.
+
+# Next Steps
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+# References
+
+List any references or related notebook entries.
+
+---
+
+## Notes
+
+- Additional notes
+- Troubleshooting
+- Ideas for future work
